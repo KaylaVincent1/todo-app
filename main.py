@@ -1,7 +1,7 @@
 import functions
 import time
 
-now = time.strftime("%b %d, %Y %H:%M:%S")
+now = time.strftime("%b %d, %Y %H:%M:%S")  # first git comment
 print("it is", now)
 while True:
     user_action = input("Type add, show, edit, complete or exit: ")
