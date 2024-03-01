@@ -1,11 +1,13 @@
 Greet
 Tell
 Read
-Shook
+Shaken
 Watch
 Salt
 Clean
 Fry Shoes
-study
-Practice
+Eat
 Hello
+Bathe Cats
+Read A Book
+Sleep
