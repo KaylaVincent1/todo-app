@@ -6,3 +6,6 @@ Watch
 Salt
 Clean
 Fry Shoes
+study
+Practice
+Hello
