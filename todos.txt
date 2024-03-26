@@ -1,11 +1,9 @@
 Greet
-Tell
 Read
 Shaken
 Watch
 Salt
 Clean
-EatHello
 Bathe Cats
 Read A Book
 Sleep
