@@ -42,14 +42,15 @@ while True:
                 window['todos'].update(values=todos)  # when an item is added update the window in real time
             except IndexError:
                 sg.popup("Please select an item first.", font=("Helvetica", 10))
+
         case "Complete":
             try:
-                todo_to_complete = values['todo'][0]
+                todo_to_complete = values['todos'][0]
                 todos = functions.get_todos()
                 todos.remove(todo_to_complete)
                 functions.write_todos(todos)
-                window['todos'].update(values=todo_to_complete)
-                window['todo'].update(values='')
+                window['todos'].update(values=todos)
+                window['todo'].update(value='')
             except IndexError:
                 sg.popup("Please select an item first.", font=("Helvetica", 10))
         case "Exit":
