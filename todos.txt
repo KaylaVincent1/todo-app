@@ -5,9 +5,7 @@ Shaken
 Watch
 Salt
 Clean
-Fry Shoes
-Eat
-Hello
+EatHello
 Bathe Cats
 Read A Book
 Sleep
